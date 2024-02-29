@@ -26,4 +26,4 @@ This repository contains the complete source code and assets for a Flappy Bird g
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-unity.git
+   https://github.com/Anuj52/Flappy-Bird-By-Anuj.git
